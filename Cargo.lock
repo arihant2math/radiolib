@@ -5,7 +5,3 @@ version = 4
 [[package]]
 name = "radiolib"
 version = "0.1.0"
-
-[[package]]
-name = "radiolib-sys"
-version = "0.1.0"
