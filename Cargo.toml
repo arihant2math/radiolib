@@ -7,3 +7,9 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+
+[features]
+debug_basic = []
+debug_protocol = []
+debug_spi = []
+verbose_assert = []
