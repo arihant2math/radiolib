@@ -1,3 +1,0 @@
-[submodule "radiolib-sys/vendored"]
-	path = radiolib-sys/vendored
-	url = https://github.com/jgromes/RadioLib
